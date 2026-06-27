@@ -6,7 +6,7 @@
     "price": 189,
     "grams": 400,
     "serving": "1-2 особи",
-    "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?w=400"
+    "image": "https://food.net.ua/uploads/posts/2024-09/picca-margarita-v-domashnix-usloviyax_1608783820_4_max.jpg"
   },
   {
     "id": 2,
@@ -25,5 +25,77 @@
     "grams": 150,
     "serving": "1 особа",
     "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400"
+  },
+{
+    "id": 4,
+    "name": "Мохіто клубнічне 0,5",
+    "description": "освіжаючий напій",
+    "price": 100,
+    "grams": 550,
+    "serving": "1 особа",
+    "image": "https://bazylik.com.ua/wp-content/uploads/2025/05/polunychnyi_mokhito.webp"
+  },
+{
+    "id": 5,
+    "name": "Мохіто 0,5",
+    "description": "освіжаючий напій",
+    "price": 100,
+    "grams": 550,
+    "serving": "1 особа",
+    "image": "https://img3.zakaz.ua/upload.8f1137c7affa21ebb2b51e41bfa44376.350x350.jpg"
+  },
+{
+    "id": 6,
+    "name": "Лимонад 0,5",
+    "description": "смачний напій",
+    "price": 100,
+    "grams": 550,
+    "serving": "1 особа",
+    "image": "https://cdn.metro-online.com/-/media/Project/MCW/UA_Metro/Blog/2021/07_2021/Klasychnyy-lymonad/Metro_shop_45945933.jpg?h=440&iar=0&w=440&rev=96ae192668894717ab7e1025b4cd4503&hash=DC79FC4F80CD78702371A51B56C9E5A1"
+  },
+{
+    "id": 7,
+    "name": "Папероні",
+    "description": "соковита",
+    "price": 220,
+    "grams": 600,
+    "serving": "1 особа",
+    "image": "https://satofood.com.ua/content/images/28/450x300l50nn0/papperoni-12945211436986.jpg"
+  },
+{
+    "id": 8,
+    "name": "4 Сира",
+    "description": "сирна",
+    "price": 200,
+    "grams": 500,
+    "serving": "1 особа",
+    "image": "https://shuba.life/static/content/thumbs/1824x912/b/3a/5ylpkw---c2x1x42px54p-rc-up--624fb4d312cc2fca656832b0f704b3ab.jpg"
+  },
+{
+    "id": 9,
+    "name": "Карбонара",
+    "description": "насичена",
+    "price": 250,
+    "grams": 750,
+    "serving": "1 особа",
+    "image": "https://www.moi-sushi.com.ua/wp-content/uploads/images/Karbonara.jpg"
+  },
+{
+    "id": 10,
+    "name": "канолі",
+    "description": "солодка",
+    "price": 150,
+    "grams": 150,
+    "serving": "1 особа",
+    "image": "https://posteat.ua/wp-content/uploads/2024/01/6d827bb9c7ad4e3ea7ba052f18c0b3af-2-600x304.jpg"
+  },
+{
+    "id": 11,
+    "name": "панна кота",
+    "description": "цікава",
+    "price": 150,
+    "grams": 120,
+    "serving": "1 особа",
+    "image": "https://lasunka.com/s149-1.jpg"
   }
 ]
