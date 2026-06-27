@@ -1,0 +1,97 @@
+/* style.css */
+/* =====================================================
+   Кастомні стилі для сайту Ristorante Bella
+   Тут я додаю свій дизайн поверх Bootstrap
+   ===================================================== */
+
+
+/* --- ХЕДЕР --- */
+.site-header {
+  /* ЗМІНИТИ: колір фону хедера (наразі темно-червоний) */
+  background-color: #8B0000;
+}
+
+.logo-text {
+  /* ЗМІНИТИ: розмір шрифту логотипу */
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+
+/* --- HERO СЕКЦІЯ (великий банер на головній) --- */
+.hero-section {
+  /* ЗМІНИТИ: посилання на фонову картинку головного банера */
+  background-image: url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1400');
+  background-size: cover;
+  background-position: center;
+
+  /* ЗМІНИТИ: висота банера (наразі 85% висоти екрану) */
+  min-height: 85vh;
+
+  position: relative;
+}
+
+/* Темна плівка поверх картинки, щоб текст було видно */
+.hero-overlay {
+  /* ЗМІНИТИ: прозорість плівки (0.0 = прозора, 0.9 = майже чорна) */
+  background: rgba(0, 0, 0, 0.55);
+  padding: 60px 40px;
+  border-radius: 12px;
+  max-width: 700px;
+}
+
+
+/* --- КАРТКИ СТРАВ У КАТАЛОЗІ --- */
+.product-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: none;
+}
+
+/* Ефект підняття картки при наведенні мишки */
+.product-card:hover {
+  /* ЗМІНИТИ: наскільки піднімається картка при наведенні (px) */
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.product-card img {
+  /* ЗМІНИТИ: висота картинки страви */
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Бейдж з грамовкою на картці */
+.product-badge {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  padding: 2px 10px;
+  color: #6c757d;
+}
+
+
+/* --- РЯДКИ КОШИКА --- */
+.cart-item {
+  border: 1px solid #e9ecef;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background: #fff;
+}
+
+.cart-item img {
+  /* ЗМІНИТИ: розмір картинки у кошику */
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+
+/* --- ФУТЕР --- */
+.site-footer {
+  /* ЗМІНИТИ: колір фону футера */
+  background-color: #222;
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Маргарита",
+    "description": "Класична піца з томатним соусом і моцарелою",
+    "price": 189,
+    "grams": 400,
+    "serving": "1-2 особи",
+    "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?w=400"
+  },
+  {
+    "id": 2,
+    "name": "Паста Карбонара",
+    "description": "Ніжна паста з беконом, яйцем і пармезаном",
+    "price": 165,
+    "grams": 320,
+    "serving": "1 особа",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400"
+  },
+  {
+    "id": 3,
+    "name": "Тірамісу",
+    "description": "Італійський десерт з маскарпоне і кавою",
+    "price": 95,
+    "grams": 150,
+    "serving": "1 особа",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400"
+  }
+]
